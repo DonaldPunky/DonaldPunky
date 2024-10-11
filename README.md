@@ -30,6 +30,7 @@ If you wish to join forces or discuss the arcane arts, you can find me here:
 - **Twitter**: [https://x.com/donaldpunky]
 - **Instagram**: [https://instagram.com/donald.punky]
 - **Discord**: [@donaldpunky]
+- **Skype**: [https://join.skype.com/invite/cJEGdhsMx10I]
 
 ---
 
