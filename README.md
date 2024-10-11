@@ -12,9 +12,9 @@ Greetings, traveler! I am a digital sorcerer specializing in the mystical arts o
 
 ## 🛠️ Tools of the Trade
 
-- **Frameworks**: React, Angular, Vue.js, Three.js, ethers.js
-- **Blockchain Technologies**: Ethereum, Solana, DAO, IPFS, smart contracts
-- **Development Environments**: Node.js, Truffle, Hardhat
+- **Frameworks**: React, Next, Angular, Vue.js, Three.js, ethers.js...
+- **Blockchain Technologies**: Ethereum, Solana, DAO, IPFS, smart contracts...
+- **Development Environments**: Node.js, Truffle, Hardhat...
 
 ## 📚 Learning & Growth
 
