@@ -12,8 +12,8 @@ Greetings, traveler! I am a digital sorcerer specializing in the mystical arts o
 
 ## 🛠️ Tools of the Trade
 
-- **Frameworks**: React, Three.js, ethers.js
-- **Blockchain Technologies**: Ethereum, IPFS, smart contracts
+- **Frameworks**: React, Angular, Vue.js, Three.js, ethers.js
+- **Blockchain Technologies**: Ethereum, Solana, DAO, IPFS, smart contracts
 - **Development Environments**: Node.js, Truffle, Hardhat
 
 ## 📚 Learning & Growth
@@ -27,10 +27,10 @@ As a continuous seeker of knowledge, I am always on a quest to learn new spells 
 
 If you wish to join forces or discuss the arcane arts, you can find me here:
 
-- **Twitter**: [Your Twitter Link]
-- **Instagram**: [Your LinkedIn Link]
-- **Discord**: @donaldpunky
+- **Twitter**: [https://x.com/donaldpunky]
+- **Instagram**: [https://instagram.com/donald.punky]
+- **Discord**: [@donaldpunky]
 
 ---
 
-> ““Code is like magic. It can create worlds, solve problems, and connect people.” - Unknown”
+> ““Code is like magic. It can create worlds, solve problems, and connect people.” - me”
